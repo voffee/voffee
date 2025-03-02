@@ -28,10 +28,10 @@ Please reach out to me on this profile via DM or e-mailing me at _vala@fastmail.
 
 ## I'm interested in:
 
-- in Single Page Applications (SPA)
+- Single Page Applications (SPA)
 - JAMSTACK philosophy
 - CSS hacks & optimizations
-- Vanilla Javascript.
+- Vanilla Javascript
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,apple)](https://skillicons.dev)
