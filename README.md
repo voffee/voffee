@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Val, a currently unemployed aspiring junior front-end web dev.
+I'm **Val**, an aspiring junior front-end web dev.
 
 Right now I'm working on hitting the 350 hours I still need to reach my study goals to become a freelancer.
 
 Please click on the projects on my profile to see some of the things I've made so far.
+
+Within the next **6 months out to August 2025**, I aim to have learned and familiarized myself with React JS and SCSS.
+
+Please reach out to me on this profile via DM or e-mailing me at _vala@fastmail.com_
 
 ## I'm interested in:
 
@@ -28,10 +32,6 @@ Please click on the projects on my profile to see some of the things I've made s
 - JAMSTACK philosophy
 - CSS hacks & optimizations
 - Vanilla Javascript.
-
-Within the next 6 months out to August 2025, I aim to have learned and familiarized myself with React JS and SCSS.
-
-Please reach out to me on this profile via DM or e-mailing me at vala@fastmail.com
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,apple)](https://skillicons.dev)
