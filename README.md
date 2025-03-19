@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 I'm **Val**, a freelance junior front-end web dev.
 
-Right now I'm working on hitting the 350 hours I still need to reach my study goals to become a freelancer.
+Right now I'm working on hitting the 300 hours I still need to reach my study goals to become a freelancer.
 
 Please click on the projects on my profile to see some of the things I've made so far.
 
-Within the next **few months out to December 2025**, I aim to have familiarized myself with React JS, Node.JS and the MERN Stack.
+Within the next **few months out to December 2025**, I aim to have familiarized myself with React.JS and elements of the MERN Stack.
 
 Please reach out to me on this profile via DM or e-mailing me at _vala@fastmail.com_
 
@@ -32,8 +32,7 @@ Please reach out to me on this profile via DM or e-mailing me at _vala@fastmail.
 - JAMSTACK philosophy
 - CSS hacks & optimizations
 - Vanilla Javascript
-- React
-- Three. JS
+- React.JS
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,apple)](https://skillicons.dev)
