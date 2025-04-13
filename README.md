@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm **Val**, a freelance junior front-end web dev.
+I'm **Val**, a freelance front-end web dev.
 
 Right now I'm working on hitting the 250 hours I still need to reach my study goals to become a freelancer.
 
@@ -31,7 +31,7 @@ Please reach out to me on this profile via DM or e-mailing me at _vala@fastmail.
 - Single Page Applications (SPA)
 - JAMSTACK philosophy
 - CSS hacks & optimizations
-- Vanilla Javascript
+- Javascript!
 - **Turnkey custom front-end + Wordpress backend for small businesses**
 
 ## Skills
