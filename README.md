@@ -22,7 +22,7 @@ Right now I'm working on hitting the 350 hours I still need to learn advanced JS
 
 Please click on the projects on my profile to see some of the things I've made so far.
 
-Within the next **few months out to March 2026**, I aim to have built out my project portfolio and become market ready.
+Within the next **few months out to February 2026**, I aim to have built out my project portfolio and become market ready.
 
 Please reach out to me on this profile via DM, e-mailing me at _mayai@tuta.com_, or visiting my website: **PLACEHOLDER**
 
@@ -35,7 +35,7 @@ Please reach out to me on this profile via DM, e-mailing me at _mayai@tuta.com_,
 - **Turnkey custom front-end + Decap CMS for small businesses**
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,apple)](https://skillicons.dev)
 
 ## Trivia
 In a past life I was a EEE student at university.
