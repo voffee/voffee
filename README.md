@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm **Val**, a freelance front-end web dev.
 
-Right now I'm working on hitting the 350 hours I still need to learn advanced JS, the React framework and Decap CMS.
+Right now I'm working on hitting the 200 hours I still need to learn advanced JS, the React framework and Decap CMS.
 
 Please click on the projects on my profile to see some of the things I've made so far.
 
