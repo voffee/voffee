@@ -24,7 +24,7 @@ Please click on the projects on my profile to see some of the things I've made s
 
 Within the next **few months out to 1st May 2026**, I aim to have become market ready.
 
-Please reach out to me on this profile via DM, e-mailing me at _mayai@tuta.com_, or visiting my website: **PLACEHOLDER**
+Please reach out to me on this profile via DM or visiting my website: **PLACEHOLDER**
 
 ## I'm interested in:
 
