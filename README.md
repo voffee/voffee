@@ -22,7 +22,7 @@ Right now I'm working on building small projects to improve my quality of code a
 
 Please click on the projects on my profile to see some of the things I've made so far.
 
-Within the next **few months out to 1st March 2026**, I aim to have become market ready.
+Within the next **few months out to 1st May 2026**, I aim to have become market ready.
 
 Please reach out to me on this profile via DM or visiting my website: **PLACEHOLDER**
 
@@ -31,11 +31,13 @@ Please reach out to me on this profile via DM or visiting my website: **PLACEHOL
 - JAMSTACK philosophy
 - CSS optimizations
 - Javascript!
-- Three.JS
+- Anime.JS
+- Chart.JS
+- 2D & 2.5D animations!
 - **Turnkey Websites, Landing Pages and Web Apps for small businesses**
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,threejs,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,apple)](https://skillicons.dev)
 
 ## Trivia
 In a past life I was a EEE student at university.
