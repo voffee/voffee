@@ -34,6 +34,7 @@ Please reach out to me on this profile via DM or visiting my website: **PLACEHOL
 - Anime.JS
 - r3f
 - 2D & 2.5D animations (parallax)
+- Technical SEO
 - **Turnkey Websites, Landing Pages and Web Apps for small businesses**
 
 ## Skills
