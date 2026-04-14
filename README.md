@@ -34,7 +34,7 @@ Please reach out to me on this profile via DM or visiting my website: **PLACEHOL
 - **Turnkey Websites, Landing Pages and Web Apps for small businesses**
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,solidjs,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,apple)](https://skillicons.dev)
 
 ## Trivia
 In a past life I was a EEE student at university.
