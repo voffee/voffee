@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm **Val**, a freelance front-end web dev.
 
-Right now I'm working on building small projects to improve my quality of code as well as the speed of delivery.
+Right now I'm working on building projects to improve my quality of code as well as the speed of delivery.
 
 Please click on the projects on my profile to see some of the things I've made so far.
 
@@ -35,7 +35,7 @@ Please reach out to me on this profile via DM or visiting my website: **PLACEHOL
 - **Turnkey Websites, Landing Pages and Web Apps for small businesses**
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,threejs,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,apple)](https://skillicons.dev)
 
 ## Trivia
 In a past life I was a EEE student at university.
