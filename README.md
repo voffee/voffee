@@ -29,9 +29,8 @@ Please reach out to me on this profile via DM or visiting my website: **PLACEHOL
 ## I'm interested in:
 
 - JAMSTACK philosophy
-- 2D & 2.5D animations (parallax)
-- 3D!
 - Technical SEO
+- 3D microworlds
 - **Turnkey Websites, Landing Pages and Web Apps for small businesses**
 
 ## Skills
