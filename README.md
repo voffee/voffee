@@ -22,7 +22,7 @@ Right now I'm working on building projects to improve my quality of code as well
 
 Please click on the projects on my profile to see some of the things I've made so far.
 
-Within the next **few months out to 1st March 2027**, I aim to have become market ready.
+Within the next **few months out to 1st January 2027**, I aim to have become market ready.
 
 Please reach out to me on this profile via DM or visiting my website: **PLACEHOLDER**
 
