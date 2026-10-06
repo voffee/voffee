@@ -22,7 +22,7 @@ Right now I'm working on building projects to improve my quality of code as well
 
 Please click on the projects on my profile to see some of the things I've made so far.
 
-Within the next **few months out to 1st January 2027**, I aim to have become market ready.
+Within the next **few months out to 1st February 2027**, I aim to have become market ready.
 
 Please reach out to me on this profile via DM or visiting my website: **PLACEHOLDER**
 
@@ -30,8 +30,8 @@ Please reach out to me on this profile via DM or visiting my website: **PLACEHOL
 
 - JAMSTACK philosophy
 - Technical SEO
-- 3D microworlds
-- **Turnkey Websites, Landing Pages and Web Apps for small businesses**
+- 2.5D & 3D content
+- **Turnkey Dynamic Landing Pages and Web Apps for small Businesses/Creative Agencies**
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,apple)](https://skillicons.dev)
