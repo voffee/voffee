@@ -1,4 +1,4 @@
-## Hello There!
+## Hello there!
 
 <!--
 **voffee/voffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,28 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 I'm **Val**, a freelance front-end web dev.
 
-Right now I'm working on building projects to improve my quality of code as well as the speed of delivery.
+Right now, I'm working on building projects to improve both the quality of my code and my speed of delivery.
 
 Please click on the projects on my profile to see some of the things I've made so far.
 
-Within the next **few months out to 1st February 2027**, I aim to have become market ready.
+Over the next **few months leading up to 1st April 2027**, I aim to be market-ready.
 
-Please reach out to me on this profile via DM or visiting my website: **PLACEHOLDER**
+Please reach out to me by visiting my website: **PLACEHOLDER**
 
 ## I'm interested in:
 
-- JAMSTACK philosophy
+- Jamstack philosophy
 - Technical SEO
-- 2.5D & 3D content
-- **Turnkey Dynamic Landing Pages and Web Apps for small Businesses/Creative Agencies**
+- 2D and 2.5D animation
+- AI integration for chatbots
+- **Turnkey dynamic landing pages and web apps for small businesses and creative agencies**
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,apple)](https://skillicons.dev)
 
 ## Trivia
-In a past life I was a EEE student at university.
+In a past life, I was an EEE student at university.
 
-I used to hack around with electronics, linux distros, defensive cybersecurity and have some experience in programming in C++ (over a couple of years). I also used to practice writing western calligraphy (half uncial script).
+I used to hack around with electronics, Linux distros, and defensive cybersecurity, and I have a couple of years of experience programming in C++. I also used to practice writing Western calligraphy (half-uncial script).
